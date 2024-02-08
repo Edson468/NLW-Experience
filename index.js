@@ -1,93 +1,93 @@
 const perguntas = [
     {
-            pergunta: "O que é JavaScript?",
-            respostas: [
-                "Uma linguagem de programação de estilo orientado a objetos",
-                "Um sistema operacional",
-                "Um tipo de café",
+        pergunta: "Quantos times participam da fase de grupos da UEFA Champions League?",
+        respostas: [
+            "16 times",
+            "24 times",
+            "32 times",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Qual time possui o recorde de títulos da UEFA Champions League?",
+        respostas: [
+            "Barcelona",
+            "Real Madrid",
+            "Bayern de Munique",
+        ],
+        correta: 1
+    },
+    {
+        pergunta: "Qual é o único clube a vencer a Champions League três vezes seguidas desde a mudança para o formato atual?",
+        respostas: [
+            "Bayern de Munique",
+            "Barcelona",
+            "Real Madrid",
+        ],
+        correta: 2
+    },
+    {
+        pergunta: "Em que ano foi realizada a primeira final da UEFA Champions League?",
+        respostas: [
+            "1956",
+            "1960",
+            "1968",
         ],
         correta: 0
     },
     {
-        pergunta: "Qual é a função do operador '===' em JavaScript?",
-            respostas: [
-                "Comparação de igualdade estrita (valor e tipo)",
-                "Atribuição de valor",
-                "Comparação de igualdade (valor)",
+        pergunta: "Qual é o único clube a vencer a UEFA Champions League invicto?",
+        respostas: [
+            "Barcelona",
+            "Bayern de Munique",
+            "Ajax",
         ],
-            correta: 0
+        correta: 2
     },
     {
-        pergunta: "Qual é a maneira correta de declarar uma variável em JavaScript?",
-            respostas: [
-                "var myVar;",
-                "variable myVar;",
-                "let myVar;",
+        pergunta: "Qual jogador detém o recorde de mais gols marcados em uma única edição da UEFA Champions League?",
+        respostas: [
+            "Lionel Messi",
+            "Cristiano Ronaldo",
+            "Robert Lewandowski",
         ],
-            correta: 2
+        correta: 1
     },
     {
-        pergunta: "O que é uma função em JavaScript?",
-            respostas: [
-                "Um tipo de dado",
-                "Um objeto de estilo CSS",
-                "Um bloco de código reutilizável",
+        pergunta: "Qual é o clube com mais participações consecutivas na UEFA Champions League?",
+        respostas: [
+            "Bayern de Munique",
+            "Real Madrid",
+            "Barcelona",
         ],
-            correta: 2
+        correta: 0
     },
     {
-        pergunta: "Qual é a finalidade do método 'querySelector'?",
-            respostas: [
-                "Para selecionar elementos HTML pelo seu id",
-                "Para fazer uma consulta em um banco de dados",
-                "Para criar uma nova variável",
+        pergunta: "Quantas equipes se classificam para as oitavas de final da UEFA Champions League?",
+        respostas: [
+            "8 equipes",
+            "12 equipes",
+            "16 equipes",
         ],
-            correta: 0
+        correta: 2
     },
     {
-        pergunta: "O que é o DOM (Document Object Model) em JavaScript?",
-            respostas: [
-                "Uma linguagem de programação",
-                "Uma representação da estrutura hierárquica de um documento HTML",
-                "Um tipo de navegador da web",
+        pergunta: "Qual é o único país a ter três times na final da UEFA Champions League?",
+        respostas: [
+            "Espanha",
+            "Itália",
+            "Inglaterra",
         ],
-            correta: 1
+        correta: 0
     },
     {
-        pergunta: "Como você adiciona um evento de clique a um elemento HTML em JavaScript?",
-            respostas: [
-                "addEventListener('click', minhaFuncao)",
-                "clickEvent(myFunction)",
-                "onclick = minhaFuncao",
+        pergunta: "Qual clube venceu a UEFA Champions League pela primeira vez em sua história em 2021?",
+        respostas: [
+            "Manchester City",
+            "Chelsea",
+            "Paris Saint-Germain",
         ],
-            correta: 0
-    },
-    {
-        pergunta: "Qual é a maneira correta de comentar um trecho de código em JavaScript?",
-            respostas: [
-                "// Este é um comentário",
-                "<!-- Este é um comentário -->",
-                "/* Este é um comentário */",
-        ],
-            correta: 2
-    },
-    {
-        pergunta: "Qual é a saída do seguinte código: console.log(typeof 'hello');",
-            respostas: [
-                "String",
-                "Number",
-                "Boolean",
-        ],
-            correta: 0
-    },
-    {
-        pergunta: "O que o método 'parseInt()' faz em JavaScript?",
-            respostas: [
-                "Converte uma string em um número inteiro",
-                "Remove espaços em branco de uma string",
-                "Converte uma string em letras minúsculas",
-        ],
-            correta: 0
+        correta: 1
     },
 ];
 //comando de como buscar uma variavel
