@@ -81,7 +81,7 @@ const perguntas = [
         correta: 0
     },
     {
-        pergunta: "Qual clube venceu a UEFA Champions League pela primeira vez em sua história em 2021?",
+        pergunta: "Qual clube venceu a UEFA Champions League pela segunda vez em sua história em 2021?",
         respostas: [
             "Manchester City",
             "Chelsea",
